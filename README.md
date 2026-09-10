@@ -12,9 +12,10 @@ Complete static website for China Restaurant Zum Goldenen Drachen, Hauptplatz 5,
 - Responsive mobile layout
 
 ## Deploy
-1. Upload this folder to a GitHub repository.
-2. Import the repository into Vercel.
-3. Add `zumgoldenendrachen.at` and `www.zumgoldenendrachen.at` in Vercel Domains.
-4. In easyname, add the DNS records Vercel gives you.
+Connected to Vercel for automatic production deployments.
 
-Before public launch, add Impressum and Datenschutz pages appropriate for the Austrian business.
+## DNS
+The custom domain `zumgoldenendrachen.at` is configured for Vercel.
+
+## Update trigger
+Production deployment refresh – September 2026.
