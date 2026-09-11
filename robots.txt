@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zumgoldenendrachen.at/sitemap.xml
+Sitemap: https://www.zumgoldenendrachen.at/sitemap.xml
